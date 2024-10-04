@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul, li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.flex{
+    display: flex;
+}
+.b-b{
+    border: 2px solid rgb(0, 0, 0);
+}
+header{
+    padding: 1rem;
+}
+header>nav{
+    justify-content: space-between;
+}
+header>nav>ul{
+    width: 500px;
+    justify-content: space-around;
+}
+.title{
+    height: 50vh;
+    text-align: center;
+    padding: 8rem;
+}
+.title>h1{
+    font-size: 5rem;
+    margin-bottom: 1rem;
+}
+.title>span{
+    font-size: 1.5rem;
+    color: rgb(112, 112, 112);
+}   
+
+footer{
+    text-align: center;
+    padding: 1rem;
+}

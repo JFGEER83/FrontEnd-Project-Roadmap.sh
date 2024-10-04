@@ -1,5 +1,5 @@
-# Single-Page-CV
-[Click here to see the Project Page](https://roadmap.sh/projects/single-page-cv)
+# Frontend Project Roadmap.sh
 ----------------------------------------------------------------
-[Click here to see the Single-Page-CV](https://jfgeer83.github.io/Single-Page-CV/)
+[Single Page CV](https://roadmap.sh/projects/single-page-cv)
+[Basic HTML Website](https://roadmap.sh/projects/basic-html-website)
 

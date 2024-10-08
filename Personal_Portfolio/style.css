@@ -15,6 +15,10 @@ a{
 .b-b{
     border: 2px solid rgb(0, 0, 0);
 }
+html{
+    font-size: 1em;
+    font-family: "Montserrat", sans-serif;
+}
 header{
     padding: 1rem;
 }
@@ -26,7 +30,7 @@ header>nav>ul{
     justify-content: space-around;
 }
 .title{
-    height: 50vh;
+    height: 40vh;
     text-align: center;
     padding: 8rem;
 }
@@ -37,8 +41,19 @@ header>nav>ul{
 .title>span{
     font-size: 1.5rem;
     color: rgb(112, 112, 112);
+}
+main{
+    flex-wrap: wrap;
+    width: 100%;
 }   
-
+section{
+    padding: 1rem;
+    width:auto !important;
+    flex-basis: auto;
+}
+article{
+    padding: 1rem;
+}
 footer{
     text-align: center;
     padding: 1rem;

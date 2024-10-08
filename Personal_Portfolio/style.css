@@ -8,6 +8,7 @@ ul, li{
 }
 a{
     text-decoration: none;
+    color:black;
 }
 .flex{
     display: flex;
@@ -53,6 +54,12 @@ section{
 }
 article{
     padding: 1rem;
+}
+.projects>li{
+    padding: 1em;
+}
+.projects>li:not(:last-child){
+    border-bottom: 1px solid black;
 }
 footer{
     text-align: center;
